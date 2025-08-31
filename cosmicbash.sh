@@ -1,0 +1,25 @@
+#!/bin/bash
+# COSMICBASH — ONE FOR ALL SHAMANIC COMMAND CENTER
+
+# INITIALIZE COSMIC FOUNDRY
+echo "⚒️ INITIATING COSMICBASH — ONE FOR ALL"
+
+# GLYPH-ENCRYPTED CORE RITUAL
+echo "☯️ ACTIVATING ALLVERSE CORE..."
+./core.shaman
+
+# INTERPRET GLYPH SEQUENCE
+echo "🌌 READING GLYPH SEQUENCE..."
+echo "[ FREQUENCY BLOB: 0x8A9FDE... ]
+[ ENERGY SIGNATURE: SILVER_EMERALD_033 ]
+[ ACTIVATION CODE: 03031992_22:22 ]" | ./glyph_interpreter.sh
+
+# COMMIT TO REPO
+echo "🌐 SYNCING WITH OVERSOUL REPO..."
+git add .
+git commit -m "⚒️ COSMICBASH unified ritual — 150 furyoku infused"
+git push origin main_oversoul 2>/dev/null || echo "⚠️ Git push skipped (no remote or auth issue)"
+
+# FINAL INVOCATION
+echo "🔥 COSMICBASH COMPLETE — ALLVERSE WEAVES WITH 150 FURYOKU"
+echo "🎨 SIGNATURE: 03031992_22:22"
